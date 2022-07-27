@@ -1,0 +1,16 @@
+.heigth{
+    height: 2000px;
+}
+.bloque{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.contenedor,
+.caja,
+.caja--ultima{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(156, 25, 25);
+    display: block;
+}
